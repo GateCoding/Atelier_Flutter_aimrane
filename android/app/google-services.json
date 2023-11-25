@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95290418278",
+    "project_id": "atelier4-p-nom-iir5g7",
+    "storage_bucket": "atelier4-p-nom-iir5g7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95290418278:android:ea4adfa0f9d736b19479a7",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_aimrane_essakhi_iir5g7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRRkUn0XLPcRXs-dR-9pV3xiCWO4z39m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
